@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/canIwin50-50/static/css/main.1bb723c9.css",
+    "main.js": "/canIwin50-50/static/js/main.bacc80f8.js",
+    "static/media/main_background.jpg": "/canIwin50-50/static/media/main_background.644fe0231320e2aa32bd.jpg",
+    "static/media/icons8-github.svg": "/canIwin50-50/static/media/icons8-github.a61b960f2ce17e7b773b7e1013673b9f.svg",
+    "index.html": "/canIwin50-50/index.html",
+    "main.1bb723c9.css.map": "/canIwin50-50/static/css/main.1bb723c9.css.map",
+    "main.bacc80f8.js.map": "/canIwin50-50/static/js/main.bacc80f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bb723c9.css",
+    "static/js/main.bacc80f8.js"
+  ]
+}
