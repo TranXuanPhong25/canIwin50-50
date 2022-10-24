@@ -15,7 +15,7 @@ function App() {
 			<header>
 				<h2 style={{color:"#fff"}}>Played {localStorage.getItem("roundPlayed")||0} times </h2>
 				
-				<a href="_blank">
+				<a href="https://github.com/TranXuanPhong25/canIwin50-50/tree/master">
 					<img width="52" heigh="52" src={github_icon} alt="github" />
 				</a>
 				<HelpModal/>
